@@ -1,0 +1,57 @@
+.mypic p
+{
+	text-align: center;
+    color: white;	
+}
+
+img {width : 300px;
+height : 300px;
+}
+
+.cake h1
+{
+	text-align: center;
+	background-color: pink;
+}
+
+.bg 
+{
+  background: red;	
+}
+
+.bg h1 
+{
+	color: white;
+}
+
+.bg h2 
+{
+  color : white;	
+}
+
+.bg p
+{
+	color : white;
+}
+.book2 img
+{width : 300px;
+	height : 300px;
+}
+
+.reviews
+{
+	background-color : blue;
+	color : white;
+}
+
+.reading
+{
+	background-color : green;
+	color : white;
+}
+
+.about
+{
+	background-color : orange;
+	color : yellow;
+}
